@@ -1,0 +1,3 @@
+sudo chown pichau:pichau calculadora.sh
+chmod 744 calculadora.sh
+./calculadora.sh
